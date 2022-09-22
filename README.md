@@ -4,7 +4,7 @@
 
 ## Introducing RGH Optimizer:
 
-This is a windows optimizer by Rayen Ghanmi, and this is my first project using python.
+This is a windows optimizer made by Rayen Ghanmi, I've made this to give a second chance to older devices in modern days.
 
 ![1](https://user-images.githubusercontent.com/108760398/186448238-94ae635d-847b-4ea1-9a8d-f9dd7fb38d64.jpg)
 
