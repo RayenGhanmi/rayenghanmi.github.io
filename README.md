@@ -1,15 +1,13 @@
-# Version 2.2.2 is out !!
+# **__RGH Optimizer__**
 
-♦ You can [check it out!](https://github.com/RayenGhanmi/Widows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2)
-
-***Note :***
-> These pictures are for an older versions of the optimizer.
+### Version 2.2.2 is out !!
+♦ You can [Download it !](https://github.com/RayenGhanmi/Widows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2)
 
 ## Introducing RGH Optimizer:
 
 This is a windows optimizer by RGH, and this is my first project using python.
 
-![4](https://user-images.githubusercontent.com/108760398/177418015-95617961-7733-44a5-8abb-a86a994d4643.png)
+![1](https://user-images.githubusercontent.com/108760398/186448238-94ae635d-847b-4ea1-9a8d-f9dd7fb38d64.jpg)
 
 When using it you will get 3 choices/stages:
 
@@ -19,7 +17,7 @@ When using it you will get 3 choices/stages:
 
 3. Optimize, to apply registery tweaks and to optimize Windows's settings.
 
-![Untitled](https://user-images.githubusercontent.com/108760398/177415745-ad1e85f5-cb85-43b2-a881-2447bb1e5e17.png)
+![Untitled](https://user-images.githubusercontent.com/108760398/187079006-6a19943d-2e0c-4179-9bf9-3903598d7fd8.png)
 
 You can review the code and suggest new features or report a bug, to make the optimizer better, follow me and send a feedback.
 
