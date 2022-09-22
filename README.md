@@ -1,6 +1,6 @@
 # **_RGH Optimizer_**
 
-* You can [Download](https://github.com/RayenGhanmi/Widows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2) the latest version.
+* You can [Download](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2) the latest version.
 
 ## Introducing RGH Optimizer:
 
@@ -24,7 +24,7 @@ He said.
 
 * You can review the code and suggest new features or report a bug to make the optimizer better.
 
-* [Here](https://github.com/RayenGhanmi/Widows-Optimizer-By-RGH/releases) you can find older versions.
+* [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
 
 * Contact me on [Facebook](https://www.facebook.com/GhanmiRayen22) for more informations.
 
