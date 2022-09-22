@@ -2,9 +2,10 @@ title: RGH Optimize for Windows
 author: Rayen Ghanmi
 description: Use Windows the way it meant to be !!
 #remote_theme: "dracula/gh-pages"
-avatar: "/img/ico.png"
 navbar-links:
   About Me: "aboutme"
 Resources:
   - Beautiful Jekyll: "https://beautifuljekyll.com"
   - Learn markdown: "https://www.markdowntutorial.com/"
+title-img: "/img/ico.png"
+avatar: "/img/ico.png"
