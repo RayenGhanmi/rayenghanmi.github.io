@@ -25,8 +25,6 @@ You can review the code and suggest new features or report a bug, to make the op
 
 If you want to republish the optimizer you need to ask me before doing that,...
 
-Contact me on Facebook for more informations:
-
-https://www.facebook.com/GhanmiRayen22
+Contact me on [Facebook](https://www.facebook.com/GhanmiRayen22) for more informations.
 
 <sub>© 2022 RayenGhanmi</sub>
