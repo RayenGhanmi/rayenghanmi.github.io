@@ -1,7 +1,6 @@
 title: RGH Optimize for Windows by Rayen Ghanmi
 author: Rayen Ghanmi
 description: Use Windows the way it meant to be !!
-remote_theme: zivong/jekyll-theme-hamilton
-skin: midnight
+remote_theme: pages-themes/hacker@v0.2.0
 #"dracula/gh-pages"
 avatar: "/img/ico.png"
