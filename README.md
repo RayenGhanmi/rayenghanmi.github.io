@@ -1,5 +1,3 @@
-# 
-
 ### This is an app that will improve your device's performance that has been made by Rayen Ghanmi :
 
 > _"I've made this optimizer to give a second chance to older devices in this modern days."_
