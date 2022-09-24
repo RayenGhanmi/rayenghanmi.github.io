@@ -1,4 +1,4 @@
-## Introducing RGH Optimizer:
+# Introducing RGH Optimizer:
 
 ### This is an app that will improve your device's performance that has been made by Rayen Ghanmi :
 
