@@ -6,11 +6,11 @@
 
 * In this app you've got 3 choices :
 
-  1. Fix, to fix any corrupted Windows files and to scan for viruses.
+1. Fix, will repaire any corrupted files in your system and scan it for viruses.
 
-  2. Debloat, to remove all the bloatware in your Windows 11 or 10.
+2. Debloat, will remove all the bloatware that are present in your Windows 11 or 10.
 
-  3. Optimize, to apply a bunch of tweaks and to optimize Windows's settings.
+3. Optimize, will apply a bunch of tweaks and optimizations to your Windows's settings.
 
 ![Untitled](https://user-images.githubusercontent.com/108760398/187079006-6a19943d-2e0c-4179-9bf9-3903598d7fd8.png)
 
