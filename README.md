@@ -25,5 +25,3 @@ He said.
 * [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
 
 * Contact me on [Facebook](https://www.facebook.com/GhanmiRayen22) for more informations.
-
-<sub>© 2022 RayenGhanmi</sub>
