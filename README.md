@@ -1,8 +1,6 @@
 ### This app will improve your device's performance and it has been made by Rayen Ghanmi :
 
-> _"I've made this optimizer to give a second chance to older devices in this modern days."_
-
-<sub>He said.</sub>
+> _"I've made this optimizer to give a second chance to older devices in this modern days."_ **He said.**
 
 ![1](https://user-images.githubusercontent.com/108760398/186448238-94ae635d-847b-4ea1-9a8d-f9dd7fb38d64.jpg)
 
