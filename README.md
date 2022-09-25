@@ -14,7 +14,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/108760398/187079006-6a19943d-2e0c-4179-9bf9-3903598d7fd8.png)
 
-* You can review the code and suggest new features or report a bug to make the optimizer better.
+* You can review the [code](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/blob/main/optimizer.py) and suggest new features or report a bug to make the optimizer better.
 
 * [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
 
