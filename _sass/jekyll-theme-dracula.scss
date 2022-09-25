@@ -34,7 +34,7 @@ h1, h2, h3 {
 h1 {
   color:$purple;
   font-size:48px;
-  line-height: 52px;
+  line-height: 64px;
 }
 
 h2 {
@@ -73,7 +73,7 @@ a {
   text-decoration:none;
 
   &:hover {
-    color: darken($green, 20%);
+    color: darken($purple, 20%);
   }
 }
 
@@ -105,7 +105,7 @@ section img {
 }
 
 blockquote {
-  border-left:3px solid $green;
+  border-left:3px solid $purple;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
