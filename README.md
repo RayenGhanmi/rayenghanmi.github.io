@@ -16,6 +16,8 @@
 
 * You can review the [code](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/blob/main/optimizer.py) and suggest new features or report a bug to make the optimizer better.
 
+👉 Download [link](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2).
+
 * [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
 
 * Contact me on [Facebook](https://www.facebook.com/GhanmiRayen22) for more informations.
