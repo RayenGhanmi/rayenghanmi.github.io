@@ -1,3 +1,5 @@
+## Version 3.0 is approaching. Follow along...
+
 ### This app will improve your device's performance and it has been made by Rayen Ghanmi :
 
 > _"I've made this optimizer to give a second chance to older devices in this modern days."_ **He said.**
