@@ -1,4 +1,4 @@
-## ♦ Version 3.0 is here. [♥ Check it](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_3.0) out
+## ♦ Version 3.0 has landed. [♥ Check it](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_3.0) out
 
 ### This app will improve your device's performance and it has been made by Rayen Ghanmi :
 
