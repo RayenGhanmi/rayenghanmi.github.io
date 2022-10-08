@@ -1,10 +1,10 @@
-## ♦ Version 3.0 is approaching. ♥ Follow along...
+## ♦ Version 3.0 is here. [♥ Check it](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_3.0) out
 
 ### This app will improve your device's performance and it has been made by Rayen Ghanmi :
 
 > _"I've made this optimizer to give a second chance to older devices in this modern days."_ **He said.**
 
-![1](https://user-images.githubusercontent.com/108760398/186448238-94ae635d-847b-4ea1-9a8d-f9dd7fb38d64.jpg)
+![2](https://user-images.githubusercontent.com/108760398/194709896-fdeff4f9-2b8c-4592-acb3-08248cb1deec.png)
 
 * In this app you've got 3 choices :
 
@@ -14,11 +14,11 @@
 
 3. Optimize, will apply a bunch of tweaks and optimizations to your Windows's settings.
 
-![Untitled](https://user-images.githubusercontent.com/108760398/187079006-6a19943d-2e0c-4179-9bf9-3903598d7fd8.png)
+![3](https://user-images.githubusercontent.com/108760398/194709955-cd3a7f5a-31af-40ed-a837-4fc6b2cd26fb.png)
 
 * You can review the [code](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/blob/main/optimizer.py) and suggest new features or report a bug to make the optimizer better.
 
-👉 Download [link](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_2.2.2).
+👉 Download [link](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_3.0).
 
 * [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
 
