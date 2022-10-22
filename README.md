@@ -4,7 +4,7 @@
 
 > _"I've made this optimizer to give a second chance to older devices in this modern days."_ **He said.**
 
-![2](https://user-images.githubusercontent.com/108760398/194709896-fdeff4f9-2b8c-4592-acb3-08248cb1deec.png)
+![1](https://user-images.githubusercontent.com/108760398/197358843-6d95c425-119c-47e7-a071-00102f445b85.jpg)
 
 * In this app you've got 3 choices :
 
@@ -14,12 +14,14 @@
 
 3. Optimize, will apply a bunch of tweaks and optimizations to your Windows's settings.
 
-![3](https://user-images.githubusercontent.com/108760398/194709955-cd3a7f5a-31af-40ed-a837-4fc6b2cd26fb.png)
+![2](https://user-images.githubusercontent.com/108760398/197358838-79251d76-b985-4850-92b5-c9343d0fad43.png)
 
 * You can review the [code](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/blob/main/optimizer.py) and suggest new features or report a bug to make the optimizer better.
 
 👉 Download [link](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases/tag/RGH_Optimizer_3.0).
 
 * [Here](https://github.com/RayenGhanmi/Windows-Optimizer-By-RGH/releases) you can find older versions.
+
+![3](https://user-images.githubusercontent.com/108760398/197358844-4e40ba96-25f0-47ba-a968-c85ca630f89b.jpg)
 
 * Contact me on [Facebook](https://www.facebook.com/GhanmiRayen22) for more informations.
