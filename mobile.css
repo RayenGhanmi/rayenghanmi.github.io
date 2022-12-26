@@ -3,11 +3,9 @@
     src: url(Inter-Black.woff2);
  }
 html {
-  background: url(2.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background: url(2.jpg) no-repeat center center; 
   background-size: cover;
+  touch-action: none;
 }
 button {
   width: 200px;
@@ -20,38 +18,10 @@ button {
   color: #fff;
   cursor: pointer;
   position: relative;
-  background: transparent;
+  background-color: #ea4c89bb;
   border-radius: 25px;
   text-align: center;
   overflow: hidden;
-}
-span{
-  background: #EA4C89;
-  height: 100%;
-  width: 0;
-  border-radius: 25px;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  z-index: -1;
-  transition: 0.5s;
-}
-
-button:hover span{
-  width: 100%;
-}
-button:hover{
-  border: none;
-}
-
-h1 {
-  filter: drop-shadow(8px 8px 5px #00000080);
-}
-h2 {
-  filter: drop-shadow(6px 6px 5px #00000080);
-}
-h3 {
-  filter: drop-shadow(6px 6px 5px #00000080);
 }
 img.resize {
     width:50px;
@@ -64,10 +34,6 @@ img.resize {
 #hp  {
 float: left;    
 margin: 0 15px 0 0;
-filter: drop-shadow(8px 8px 5px #00000080);
-}
-.shadow {
-  filter: drop-shadow(8px 8px 5px #00000080);
 }
 .prevent-select {
 -webkit-user-select: none;
@@ -75,9 +41,9 @@ filter: drop-shadow(8px 8px 5px #00000080);
 user-select: none;
 }
 .navbar{
-    width: 90%;
+    width: 100%;
     margin: auto;
-    padding: 20px 0;
+    padding: 10px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -90,48 +56,32 @@ user-select: none;
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 10px;
     position: relative;
 }
 .navbar ul li a{
     text-decoration: none;
     color: #fff;
-    font-size: 20px;
+    filter: drop-shadow(2px 2px 5px #EA4C89);
+    font-size: 22px;
     text-transform: uppercase;
-}
-.navbar ul li a:hover{
-  filter: drop-shadow(1px 1px 5px #EA4C89);
-  transition: 0.3s;
-}
-.navbar ul li::after{
-    content: "";
-    height: 3px;
-    width: 0;
-    background: #EA4C89;
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    transition: 0.5s;
-}
-.navbar ul li:hover::after{
-    width: 100%;
 }
 .center {
     margin: auto;
-    width: 75%;
-    padding: 25px 25px;
+    width: 85%;
+    padding: 15px 15px;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
     box-shadow: 5px 5px 10px 2px rgba(0,0,0,.7);
 }
 .noscrollbar::-webkit-scrollbar {
-    display: none;
-  }
+  display: none;
+}
 .noscrollbar {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
 .textshadow{
   filter: drop-shadow(2px 2px 5px #00000085);
   -webkit-user-select: none;
@@ -140,9 +90,6 @@ user-select: none;
 }
 a{
   text-decoration: none;
-}
-a:hover{
-  text-decoration: underline;
 }
 .name{
   background: transparent;
