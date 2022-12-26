@@ -126,13 +126,13 @@ user-select: none;
     user-select: none;
     box-shadow: 5px 5px 10px 2px rgba(0,0,0,.7);
 }
-.noscrollbar::-webkit-scrollbar {
+/*.noscrollbar::-webkit-scrollbar {
     display: none;
   }
 .noscrollbar {
     -ms-overflow-style: none;
     scrollbar-width: none;
-  }
+  }*/
 .textshadow{
   filter: drop-shadow(2px 2px 5px #00000085);
   -webkit-user-select: none;
