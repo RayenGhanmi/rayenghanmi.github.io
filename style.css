@@ -2,6 +2,13 @@
     font-family: fonfon;
     src: url(Inter-Black.woff2);
  }
+html { 
+  background: url(2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 button {
   width: 200px;
   height: 50px;
@@ -46,15 +53,6 @@ h2 {
 h3 {
   filter: drop-shadow(6px 6px 5px #00000080);
 }
-body {
-    background-color: black;
-    background-image: url("2.jpg");
-    height: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    }
 img.resize {
     width:50px;
     height:auto;
