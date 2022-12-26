@@ -120,12 +120,12 @@ user-select: none;
 }
 .center {
     margin: auto;
-    width: 50%;
-    padding: 15px 15px;
+    width: 75%;
+    padding: 25px 25px;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.6);
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.7);
 }
 .noscrollbar::-webkit-scrollbar {
     display: none;
